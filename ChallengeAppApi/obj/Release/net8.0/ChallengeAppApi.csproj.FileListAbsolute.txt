@@ -269,3 +269,4 @@ D:\Workspace\ChallengeAppApi\ChallengeAppApi\ChallengeAppApi\obj\Release\net8.0\
 D:\Workspace\ChallengeAppApi\ChallengeAppApi\ChallengeAppApi\obj\Release\net8.0\ChallengeAppApi.pdb
 D:\Workspace\ChallengeAppApi\ChallengeAppApi\ChallengeAppApi\obj\Release\net8.0\ChallengeAppApi.genruntimeconfig.cache
 D:\Workspace\ChallengeAppApi\ChallengeAppApi\ChallengeAppApi\obj\Release\net8.0\ref\ChallengeAppApi.dll
+D:\Workspace\ChallengeAppApi\ChallengeAppApi\ChallengeAppApi\obj\Release\net8.0\ChallengeAppApi.sourcelink.json
