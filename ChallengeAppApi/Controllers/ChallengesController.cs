@@ -48,7 +48,6 @@ namespace ChallengeAppApi.Controllers
 
         
         [HttpPost, ActionName("Create")]
-        [Route("create")]
         public async Task<IActionResult> Create(ChallengeModel challenge)
         {
             ChallengeEntity newChallenge = new ChallengeEntity(challenge.Name,
@@ -75,7 +74,7 @@ namespace ChallengeAppApi.Controllers
 
         
         [HttpPut, ActionName("Edit")]
-        [Route("edit/{id}")]
+        [Route("{id}")]
         public async Task<IActionResult> Edit(int id, ChallengeModel challenge)
         {
             if (id < 0)
@@ -118,7 +117,7 @@ namespace ChallengeAppApi.Controllers
     
 
         [HttpDelete, ActionName("Delete")]
-        [Route("delete/{id}")]
+        [Route("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
             var challenge = await _context.Challenges.FindAsync(id);

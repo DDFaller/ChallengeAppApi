@@ -253,8 +253,6 @@ D:\Workspace\ChallengeAppApi\ChallengeAppApi\ChallengeAppApi\obj\Release\net8.0\
 D:\Workspace\ChallengeAppApi\ChallengeAppApi\ChallengeAppApi\obj\Release\net8.0\ChallengeAppApi.csproj.CoreCompileInputs.cache
 D:\Workspace\ChallengeAppApi\ChallengeAppApi\ChallengeAppApi\obj\Release\net8.0\ChallengeAppApi.MvcApplicationPartsAssemblyInfo.cs
 D:\Workspace\ChallengeAppApi\ChallengeAppApi\ChallengeAppApi\obj\Release\net8.0\ChallengeAppApi.MvcApplicationPartsAssemblyInfo.cache
-D:\Workspace\ChallengeAppApi\ChallengeAppApi\ChallengeAppApi\obj\Release\net8.0\ChallengeAppApi.RazorAssemblyInfo.cache
-D:\Workspace\ChallengeAppApi\ChallengeAppApi\ChallengeAppApi\obj\Release\net8.0\ChallengeAppApi.RazorAssemblyInfo.cs
 D:\Workspace\ChallengeAppApi\ChallengeAppApi\ChallengeAppApi\obj\Release\net8.0\staticwebassets.build.json
 D:\Workspace\ChallengeAppApi\ChallengeAppApi\ChallengeAppApi\obj\Release\net8.0\staticwebassets.development.json
 D:\Workspace\ChallengeAppApi\ChallengeAppApi\ChallengeAppApi\obj\Release\net8.0\staticwebassets\msbuild.ChallengeAppApi.Microsoft.AspNetCore.StaticWebAssets.props

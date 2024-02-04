@@ -12,6 +12,6 @@
     <WebStackScaffolding_DbContextTypeFullName>ChallengeAppApi.Data.ChallengeAppApiContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
-    <NameOfLastUsedPublishProfile>D:\Workspace\ChallengeAppApi\ChallengeAppApi\ChallengeAppApi\Properties\PublishProfiles\ChallengeAppApi - Web Deploy1.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>D:\Workspace\ChallengeAppApi\ChallengeAppApi\ChallengeAppApi\Properties\PublishProfiles\ChallengeAppApi20240204163355 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
