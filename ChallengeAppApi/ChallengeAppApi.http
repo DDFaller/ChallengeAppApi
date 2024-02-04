@@ -1,0 +1,6 @@
+@ChallengeAppApi_HostAddress = http://localhost:5194
+
+GET {{ChallengeAppApi_HostAddress}}/challenges/
+Accept: application/json
+
+###
